@@ -111,12 +111,12 @@ body{
 	margin-top: 50px;
 }
 
-#b1:hover, #b1:focus, #b1:active {
+#b1:hover {
   -webkit-transform: scale(0.8);
   transform: scale(0.8);
 }
 
-#b2:hover, #b2:focus, #b2:active {
+#b2:hover {
   -webkit-transform: scale(0.8);
   transform: scale(0.8);
 }
