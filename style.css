@@ -11,72 +11,16 @@ body{
 
 #bgimage
 {
-	background-image: url(img/banner.jpg);
+	background-image: url(img/bannerv_2.jpg);
 	background-size: cover;
 	width: 100%;
 	height: 50vh;
-	opacity: 98%;
-}
-
-.menu
-{
-	width: 100%;
-	height: 50px;
-	background-color: rgba(0,0,5,0.5);
 	opacity: 80%;
-	background: url(img/45degreee_fabric_@2X.png);
-}
-
-#lmenu
-{
-	width:25%;
-	line-height:50px;
-	float:left;
-}
-
-#lmenu h4
-{
-	padding-left: 40px;
-	font-weight: bold;
-	color:rgba(0,0,0,0.70);
-	font-size:22px;
-	font-family: 'Courgette', sans-serif;
-	
-}
-
-#rmenu
-{
-	width: 75%;
-	height: 100px;
-	float: right;
-	color:#fff;
-}
-
-#rmenu ul
-{
-	margin-left: 45%;
-}
-
-#rmenu ul li
-{
-	font-family: 'Courgette', sans-serif; 
-	display: inline-block;
-	list-style: none;
-	font-size: 15px;
-	font-weight: bold;
-	line-height: 50px;
-	margin-left: 40px;
-	text-transform: uppercase;
-}
-
-#rmenu ul a{
-	text-decoration: none;
-	color: brown;
 }
 
 #text{
+	padding-top: 10vh;
 	width: 100%;
-	margin-top: 70px;
 	text-transform: uppercase;
 	text-align: center;
 	color: black;
@@ -109,6 +53,7 @@ body{
 
 #buttons{
 	margin-top: 50px;
+	padding-bottom: 10px;
 }
 
 #b1:hover {
@@ -149,40 +94,6 @@ body{
 	color: white;
 	transition-duration: 0.3s;
 	cursor:pointer;
-}
-
-iframe{
-	margin-top: 20px;
-	text-align: center;
-}
-.f{
-	width: 100%;
-	text-align: center;
-	margin-bottom: 35px;
-}
-
-#cont{
-	margin-top: 35px;
-	width: 70%;
-	margin-left: auto;
-	margin-right: auto;
-	text-align: justify;
-	color: white;
-	margin-bottom: 35px;
-}
-
-#cont a{
-	color: lightgray;
-	text-decoration: underline;
-	text-decoration-style: dotted;
-}
-
-.hh4 h4{
-	color: white;
-	text-align: center;
-	font-size: 35px;
-	font-family: 'Courgette', sans-serif; 
-	
 }
 
 
