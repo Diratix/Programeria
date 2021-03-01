@@ -6,7 +6,7 @@
 }
 
 body{	
-	background: url(img/carbon_fibre.png);
+	background: url(img/carbon_fibre.png);
 }
 
 #bgimage
@@ -21,7 +21,7 @@ body{
 #text{
 	padding-top: 10vh;
 	width: 100%;
-	text-transform: uppercase;
+	text-transform: uppercase;
 	text-align: center;
 	color: black;
 	
@@ -31,7 +31,7 @@ body{
 
 #text h1{
 	font-size: 80px;
-	font-family: 'Audiowide', cursive;
+	font-family: 'Audiowide', cursive;
 	font-weight: bold;
 	text-shadow: 1px 1px 2px black;
 	letter-spacing: 25px;
@@ -57,7 +57,7 @@ body{
 }
 
 #b1:hover {
-  -webkit-transform: scale(0.8);
+  -webkit-transform: scale(0.8);
   transform: scale(0.8);
 }
 
@@ -74,7 +74,7 @@ body{
 	line-height: 35px;
 	width: 150px;
 	font-family: 'Audiowide';
-	text-transform: uppercase;
+	text-transform: uppercase;
 	border: 1px solid #fff;
 	transition-duration: 0.3s;
 	cursor:pointer;
